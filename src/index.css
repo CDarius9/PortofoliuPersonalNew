@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+  @apply bg-black;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-black;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-800 rounded-lg;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-primary;
+}
+
+@layer components {
+  .section-title {
+    @apply text-5xl font-bold text-white mb-16 text-center relative;
+  }
+  
+  .section-title::after {
+    content: '';
+    @apply absolute bottom-[-10px] left-1/2 transform -translate-x-1/2 w-24 h-[3px] bg-primary rounded-md;
+  }
+  
+  .card {
+    @apply bg-card-bg border border-card-border rounded-2xl p-6 transition-all duration-300 backdrop-blur-sm shadow-lg;
+  }
+  
+  .card:hover {
+    @apply border-primary transform -translate-y-1 shadow-primary/20;
+  }
+  
+  .gradient-text {
+    @apply text-5xl font-bold text-white mb-6 relative;
+  }
+  
+  .gradient-text::after {
+    content: '';
+    @apply absolute bottom-[-10px] left-1/2 transform -translate-x-1/2 w-24 h-[3px] bg-primary rounded-md;
+  }
+}
