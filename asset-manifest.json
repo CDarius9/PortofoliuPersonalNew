@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PortofoliuPersonalNew/static/css/main.24ec7d32.css",
+    "main.js": "/PortofoliuPersonalNew/static/js/main.ec01d5d4.js",
+    "static/js/453.acca0757.chunk.js": "/PortofoliuPersonalNew/static/js/453.acca0757.chunk.js",
+    "static/media/TT.png": "/PortofoliuPersonalNew/static/media/TT.6f12541acac9750ec337.png",
+    "static/media/MUNTEX1.jpg": "/PortofoliuPersonalNew/static/media/MUNTEX1.4c0e93e33bf4ff1f55a1.jpg",
+    "static/media/romarketplace2.png": "/PortofoliuPersonalNew/static/media/romarketplace2.6b7ed59f50a4d62f914a.png",
+    "static/media/resume1.pdf": "/PortofoliuPersonalNew/static/media/resume1.faa864b6177840dac5d2.pdf",
+    "static/media/quizlingua.png": "/PortofoliuPersonalNew/static/media/quizlingua.e8a566a12bd58f387ddc.png",
+    "static/media/portfolio1.png": "/PortofoliuPersonalNew/static/media/portfolio1.8812066e7c3416da072b.png",
+    "index.html": "/PortofoliuPersonalNew/index.html",
+    "main.24ec7d32.css.map": "/PortofoliuPersonalNew/static/css/main.24ec7d32.css.map",
+    "main.ec01d5d4.js.map": "/PortofoliuPersonalNew/static/js/main.ec01d5d4.js.map",
+    "453.acca0757.chunk.js.map": "/PortofoliuPersonalNew/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24ec7d32.css",
+    "static/js/main.ec01d5d4.js"
+  ]
+}
