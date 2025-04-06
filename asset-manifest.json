@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.24ec7d32.css",
-    "main.js": "/static/js/main.eb45c55f.js",
+    "main.js": "/static/js/main.7b5a307c.js",
     "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
     "static/media/TT.png": "/static/media/TT.6f12541acac9750ec337.png",
     "static/media/MUNTEX1.jpg": "/static/media/MUNTEX1.4c0e93e33bf4ff1f55a1.jpg",
     "static/media/romarketplace2.png": "/static/media/romarketplace2.6b7ed59f50a4d62f914a.png",
-    "static/media/resume1.pdf": "/static/media/resume1.faa864b6177840dac5d2.pdf",
+    "static/media/resume1.pdf": "/static/media/resume1.b4538d8b44d02d9f4f2b.pdf",
     "static/media/quizlingua.png": "/static/media/quizlingua.e8a566a12bd58f387ddc.png",
     "static/media/portfolio1.png": "/static/media/portfolio1.8812066e7c3416da072b.png",
     "index.html": "/index.html",
     "main.24ec7d32.css.map": "/static/css/main.24ec7d32.css.map",
-    "main.eb45c55f.js.map": "/static/js/main.eb45c55f.js.map",
+    "main.7b5a307c.js.map": "/static/js/main.7b5a307c.js.map",
     "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24ec7d32.css",
-    "static/js/main.eb45c55f.js"
+    "static/js/main.7b5a307c.js"
   ]
 }
