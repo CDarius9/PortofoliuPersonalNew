@@ -72,7 +72,7 @@ const Projects = () => {
         'Creating a fair scoring system that accounts for difficulty and response time',
         'Developing subscription-based content access control'
       ],
-      link: 'https://www.quizlingua.com',
+      link: 'https://quizlingua.com/',
       code: 'https://github.com/Darius900/QuizLingua',
       image: quizlinguaImage, 
       category: 'fullstack',
